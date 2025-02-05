@@ -6,3 +6,8 @@ body {
 strong{
     color: #4682B4;
 }
+
+img{
+    width: 200px;
+    padding-bottom: 50px;
+}
